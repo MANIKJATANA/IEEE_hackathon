@@ -1,0 +1,42 @@
+body{
+  background-color: #47B5FF;
+  color: #DFF6FF;
+  text-align: center;
+}
+
+.container{
+  width: 80%;
+  position: relative;
+  text-align: center;
+}
+
+.marginleft{
+  margin-left: -100px;
+}
+
+.heading{
+
+  width: 50%;
+  margin: 5px auto 30px auto;
+  position: relative;
+  text-align: center;
+}
+
+label{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+input{
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.blk{
+  background-color: #06283D;
+}
+form{
+  position: relative;
+
+  padding: 40px 20px 10px 40px;
+}
